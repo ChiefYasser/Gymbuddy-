@@ -1,0 +1,12 @@
+Provide a workout suggestion based on:
+- Goal
+- Fitness level
+- Available time
+- Equipment
+
+Respond with a JSON structure:
+{
+  "warmup": [],
+  "exercises": [],
+  "cooldown": []
+}
